@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/datos.unity
+    guid: a807330db7f01fa4abb1835b31be564b
+  - enabled: 1
+    path: Assets/Scenes/video.unity
+    guid: c03f16957be838f48865ad93b3ebb23f
+  - enabled: 1
+    path: Assets/Scenes/experimenta.unity
+    guid: 773370f54a35aa64eb11284e53a1ce40
+  - enabled: 1
+    path: Assets/Scenes/derrameC.unity
+    guid: bd7a5f3c28dd2964e8bb94d919ae8f64
+  - enabled: 1
+    path: Assets/Scenes/quiz.unity
+    guid: 485ecdd6bd9f29a42bac38810afbea17
+  - enabled: 1
+    path: Assets/Scenes/preguntas.unity
+    guid: 3a4f95140b2779e4fb2e2f663dc4f436
+  - enabled: 1
+    path: Assets/Scenes/bien.unity
+    guid: 322a52bade96cbc4f83c47f06b08fb32
+  m_configObjects: {}
